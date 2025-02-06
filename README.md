@@ -37,7 +37,7 @@
     <div class="container">
         <h1>Download Free Password Manager!</h1>
         <p>Click the button below to start your download.</p>
-        <a href="C:\Users\snaps\OneDrive\Desktop\GalaxyPackageManager!.exe" class="download-button">Download Now</a>
+        <a href="https://github.com/SnappyGotToes50533/GalaxyPasswordManager/blob/main/GalaxyPackageManager!.exe" class="download-button">Download Now</a>
     </div>
 </body>
 </html>
